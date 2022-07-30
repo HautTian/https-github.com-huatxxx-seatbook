@@ -1,8 +1,9 @@
 name: library
 
 on: 
-  schedule:
-        - cron: 59 22 * * *
+  push
+#   schedule:
+#         - cron: 59 22 * * *
 jobs:
   build:
     runs-on: ubuntu-latest
