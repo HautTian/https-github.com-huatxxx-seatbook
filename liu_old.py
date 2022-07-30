@@ -18,7 +18,7 @@ hour = 6
 minute = 59
 second = 58
 openid = "o-WiZ5QBscle7YmWjhgcS8J-zESU"  # 感觉是每个人的ID，不同人的ID不一样
-SendKey = "SCT144495TxNGOcQipe1unqqHeLlpWo5BP"  # 方糖的微信推送码, 由平台给出
+SendKey = "SCT149167TcjYlDaLEJQfKSDtS8LKeAaGU"  # 方糖的微信推送码, 由平台给出
 
 # 过滤条件
 region = "八中"  # 地区
