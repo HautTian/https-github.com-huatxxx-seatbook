@@ -21,8 +21,8 @@ openid = "o-WiZ5QBscle7YmWjhgcS8J-zESU"  # 感觉是每个人的ID，不同人�
 SendKey = "SCT149167TcjYlDaLEJQfKSDtS8LKeAaGU"  # 方糖的微信推送码, 由平台给出
 
 # 过滤条件
-region = "八中"  # 地区
-seatNLName = "22桌 F座"  # 座位名称
+region = "十西南"  # 地区
+seatNLName = "07桌 A座"  # 座位名称
 seatShortName = '-1'  # 座位号 : '1' 'A' 'F' 等
 
 RequestCnt = 1000  # 表示一共要请求的次数，每0.1s请求一次
