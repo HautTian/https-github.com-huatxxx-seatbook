@@ -76,11 +76,11 @@ regionNameList = {
     '九中': {'name': '九层中区', 'layerid': 9, 'regionId': 37},
     '九西北': {'name': '九层西书库北区', 'layerid': 9, 'regionId': 35},
     '九西南': {'name': '九层西书库南区', 'layerid': 9, 'regionId': 36},
-    '十东北': {'name': '十层东书库北区', 'layerid': 10, 'regionId': 38},
-    '十东南': {'name': '十层东书库南区', 'layerid': 10, 'regionId': 39},
+    '十东北': {'name': '十层东特藏北区', 'layerid': 10, 'regionId': 38},
+    '十东南': {'name': '十层东特藏南区', 'layerid': 10, 'regionId': 39},
     '十中': {'name': '十层中区', 'layerid': 10, 'regionId': -1},
-    '十西北': {'name': '十层西书库北区', 'layerid': 10, 'regionId': 40},
-    '十西南': {'name': '十层西书库南区', 'layerid': 10, 'regionId': 41}
+    '十西北': {'name': '十层西报刊北区', 'layerid': 10, 'regionId': 40},
+    '十西南': {'name': '十层西报刊南区', 'layerid': 10, 'regionId': 41}
 }
 
 Host = "172.18.249.143"
