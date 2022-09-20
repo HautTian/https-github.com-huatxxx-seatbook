@@ -79,8 +79,8 @@ regionNameList = {
     '十东北': {'name': '十层东特藏北区', 'layerid': 10, 'regionId': 38},
     '十东南': {'name': '十层东特藏南区', 'layerid': 10, 'regionId': 39},
     '十中': {'name': '十层中区', 'layerid': 10, 'regionId': -1},
-    '十西北': {'name': '十层西报刊北区', 'layerid': 10, 'regionId': 40},
-    '十西南': {'name': '十层西报刊南区', 'layerid': 10, 'regionId': 41}
+    '十西北': {'name': '十层报刊北区', 'layerid': 10, 'regionId': 40},
+    '十西南': {'name': '十层报刊南区', 'layerid': 10, 'regionId': 41}
 }
 
 Host = "172.18.249.143"
